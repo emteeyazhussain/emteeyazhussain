@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm imtiyaz hussain</h1>
-<h3 align="center">passionate coder to solve the problem</h3>
+<h3 align="center"><i>Passionate Coder who just love building through programming </i></h3>
 <img align="right" alt="coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emteeyazhussain&label=Profile%20views&color=0e75b6&style=flat" alt="emteeyazhussain" /> </p>
 
 - 🌱 I’m currently learning **artifical intelligence**
 
-- 💬 Ask me about **artifical intelligence**
+- 💬 Ask me about **AI,CODING,Problem-solving**
 
 - 📫 How to reach me **emteeyazhussain@gmail.com**
 
